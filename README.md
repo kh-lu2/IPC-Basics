@@ -1,7 +1,7 @@
 # IPC Basics
 All programs were written for Linux machines.
 ### Semaphors
-Two programs that synchronise each other to print a pyramid of numbers (one program prints even numbers, the other odd ones).\
+Two programs that synchronise each other to print a pyramid of numbers (one program prints even numbers, the other odd ones).
 ```
 1
 2 2
